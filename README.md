@@ -17,5 +17,4 @@ After compiling each kernel.cu file, you need to provide the following parameter
 eg: kernel.out 1K-uniform.dat 10K-uniform.dat 10 1000 1 o 10
 
 
-Polychronis Velentzas
-Univercity of Thessaly
+Polychronis Velentzas, Univercity of Thessaly
