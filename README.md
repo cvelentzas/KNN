@@ -2,6 +2,8 @@ KNN GPU Algorithms
 
 This repository contains 4 KNN GPU Algorithms. We also provide some datafiles, which were created using the Spider Spatial Generator (https://spider.cs.ucr.edu/).
 
+Algorithms with pinned memory, are using the concurrent kernel execution technique.
+
 After compiling each kernel.cu file, you need to provide the following parameters:
 
 1) training dataset
