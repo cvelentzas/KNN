@@ -12,4 +12,4 @@ After compiling each kernel.cu file, you need to provide the following parameter
 6) o=brief output, p=detailed output
 7) Number of streams
 
-eg: kernel.out 1K-uniform.dat 10K-uniform.da 10 1000 1 o 10
+eg: kernel.out 1K-uniform.dat 10K-uniform.dat 10 1000 1 o 10
